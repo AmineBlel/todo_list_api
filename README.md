@@ -4,18 +4,22 @@ Todo_list_api is project that .
 
 ## Installation
 First you have to clone the project.
-Then to install all dependencies, you have to run
-```bash
-npm install
-```
-Then to start the server, you have to run 
 
+To start the application, you need to have docker installed in your computer.
+
+
+Then you have to run to start the server
 ```bash
-npm start
+make up
 ```
 Now you can check the apis using the host
 ```bash
 http://localhost:3001
+```
+Then to stop the server, you have to run 
+
+```bash
+make down
 ```
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
