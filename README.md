@@ -3,7 +3,6 @@
 Todo_list_api is project that .
 
 ## Installation
-First you have to clone the project.
 
 To start the application, you need to have docker installed in your computer.
 
