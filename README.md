@@ -13,7 +13,7 @@ Then to start the server, you have to run
 ```bash
 npm start
 ```
-Now you can check the apis with using the host
+Now you can check the apis using the host
 ```bash
 http://localhost:3001
 ```
